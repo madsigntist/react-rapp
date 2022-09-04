@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-rapp/static/css/main.22306ea2.css",
+    "main.js": "/react-rapp/static/js/main.83648f6c.js",
+    "index.html": "/react-rapp/index.html",
+    "main.22306ea2.css.map": "/react-rapp/static/css/main.22306ea2.css.map",
+    "main.83648f6c.js.map": "/react-rapp/static/js/main.83648f6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22306ea2.css",
+    "static/js/main.83648f6c.js"
+  ]
+}
